@@ -1,5 +1,6 @@
 # Networking-project
-Network Design and Implementation Project for International Institute of Computer Technology Management (IICTM) University
+Network Design and Implementation Project for International Institute of Computer Technology Management (IICTM) University.
+
 This is a Network Design and Implementation for a university. 
 This project has a basic idea about the network components and configurations of Cisco routers and switches.
 this is my first project as well as the final project of my Diploma in Network Engineering.
