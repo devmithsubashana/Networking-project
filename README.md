@@ -1,4 +1,4 @@
-# Networking-project
+# Networking-project-Diploma
 ☆ Network Design and Implementation Project for International Institute of Computer Technology Management (IICTM) University.
 
 This is a Network Design and Implementation for a university. 
